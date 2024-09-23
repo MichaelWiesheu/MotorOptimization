@@ -1,4 +1,4 @@
-# Ccode snapshot to the publication "Combined Parameter and Shape Optimization of Electric Machines with Isogeometric Analysis"
+# Code snapshot to the publication "Combined Parameter and Shape Optimization of Electric Machines with Isogeometric Analysis"
 - Published with Springer on 21.09.2024 
 - Online link: https://link.springer.com/article/10.1007/s11081-024-09925-0
 
