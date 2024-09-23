@@ -18,7 +18,7 @@ No other packages need to be downloaded at this point. To provide a fully workin
 - GeoPDEs (https://rafavzqz.github.io/geopdes/)
 - The NURBS toolbox (https://de.mathworks.com/matlabcentral/fileexchange/26390-nurbs-toolbox-by-d-m-spink)
 
-which we give full credit to.
+to which we give credit.
 
 
 # How to run the code
