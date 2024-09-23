@@ -1,0 +1,47 @@
+TUDaCol.col_1a = '#5D85C3';
+TUDaCol.col_2a = '#009CDA';
+TUDaCol.col_3a = '#50B695';
+TUDaCol.col_4a = '#AFCC50';
+TUDaCol.col_5a = '#DDDF48';
+TUDaCol.col_6a = '#FFE05C';
+TUDaCol.col_7a = '#F8BA3C';
+TUDaCol.col_8a = '#EE7A34';
+TUDaCol.col_9a = '#E9503E';
+TUDaCol.col_10a = '#C9308E';
+TUDaCol.col_11a = '#804597';
+
+TUDaCol.col_1b = '#005AA9';
+TUDaCol.col_2b = '#0083CC';
+TUDaCol.col_3b = '#009D81';
+TUDaCol.col_4b = '#99C000';
+TUDaCol.col_5b = '#C9D400';
+TUDaCol.col_6b = '#FDCA00';
+TUDaCol.col_7b = '#F5A300';
+TUDaCol.col_8b = '#EC6500';
+TUDaCol.col_9b = '#E6001A';
+TUDaCol.col_10b = '#A60084';
+TUDaCol.col_11b = '#721085';
+
+TUDaCol.col_1c = '#004E8A';
+TUDaCol.col_2c = '#00689D';
+TUDaCol.col_3c = '#008877';
+TUDaCol.col_4c = '#7FAB16';
+TUDaCol.col_5c = '#B1BD00';
+TUDaCol.col_6c = '#D7AC00';
+TUDaCol.col_7c = '#D28700';
+TUDaCol.col_8c = '#CC4C03';
+TUDaCol.col_9c = '#B90F22';
+TUDaCol.col_10c = '#951169';
+TUDaCol.col_11c = '#611C73';
+
+TUDaCol.col_1d = '#243572';
+TUDaCol.col_2d = '#004E73';
+TUDaCol.col_3d = '#00715E';
+TUDaCol.col_4d = '#6A8B22';
+TUDaCol.col_5d = '#99A604';
+TUDaCol.col_6d = '#AE8E00';
+TUDaCol.col_7d = '#BE6F00';
+TUDaCol.col_8d = '#A94913';
+TUDaCol.col_9d = '#961C26';
+TUDaCol.col_10d = '#732054';
+TUDaCol.col_11d = '#4C226A';

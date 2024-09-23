@@ -1,0 +1,10 @@
+classdef MAT_NdFeB_Br10 < MAT_Magnet
+
+    methods (Access = public)
+        function obj = MAT_NdFeB_Br10(angle)
+            obj@MAT_Magnet(angle);
+            obj.Mur = 1.05;
+            obj.Br = 1.0;
+         end
+    end
+end

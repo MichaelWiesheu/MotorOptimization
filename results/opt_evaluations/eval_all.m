@@ -1,0 +1,6 @@
+run("eval_init.m")
+run("eval_param.m")
+run("eval_param_shape.m")
+run("eval_param_then_shape.m")
+run("eval_shape.m")
+run("eval_opt_plots.m")
