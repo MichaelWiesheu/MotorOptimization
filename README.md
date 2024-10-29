@@ -51,6 +51,8 @@ These files are free to use for research purposes. You can edit it or modify it 
 These files are distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 You should have received a copy of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
 
+While the code is under GPL 3.0, the geometrical motor design is taken from the JMAG-RT Motor Model Library and is subject to JSOL's terms of use https://www.jmag-international.com/modellibrary. Material data is taken from FEMM which is published under the Aladdin Free Public License https://www.femm.info/wiki/license.
+
 # Authors: 
 Michael Wiesheu, Theodor Komann, Melina Merkel, Sebastian Schöps, Stefan Ulbrich, Idoia Cortes Garcia
 
